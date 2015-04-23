@@ -4,7 +4,7 @@ namespace Ninjaparade\Hasids\Laravel\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
-class Filesystem extends Facade
+class Hashids extends Facade
 {
     /**
      * {@inheritDoc}
