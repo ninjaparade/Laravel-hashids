@@ -1,11 +1,11 @@
 <?php
 
-namespace Ninjaparade\Hashids;
+namespace Ninjaparade\Hashids\Laravel;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Foundation\AliasLoader;
 
-class FilesystemServiceProvider extends ServiceProvider
+class HashidsServiceProvider extends ServiceProvider
 {
     /**
      * {@inheritDoc}
